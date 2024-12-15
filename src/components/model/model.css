@@ -1,0 +1,43 @@
+.spline-container {
+    width: 100% !important; /* Stretch the canvas to fill the container */
+    height: auto !important; /* Maintain aspect ratio */
+}
+
+.spline-room-container {
+    width: 100%;
+    height: 100vh; /* Adjust as needed */
+    max-width: 800px; /* Optional: Set a maximum width */
+    max-height: 500px; /* Optional: Set a maximum height */
+    overflow: hidden;
+}
+
+.spline-room-container  canvas {
+    transform: scale(0.65); /* Scale down to 80% */
+    transform-origin: center center; /* Keep it centered while scaling */
+}
+
+@media screen and (max-width: 980px) {
+    .spline-container canvas {
+        transform: scale(0.80);
+        right: 10%;
+        position: relative;
+    }
+
+    .spline-container {
+        max-height: 300px;
+    }
+
+    .spline-room-container {
+        width: 100%;
+        height: 100vh;
+        max-width: 350px; 
+        max-height: 420px;
+    }
+
+    .spline-room-container  canvas {
+        transform: scale(0.50);
+        right: 50%;
+        position: relative;
+    }
+}
+
