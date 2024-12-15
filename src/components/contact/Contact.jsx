@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import emailjs from 'emailjs-com';
-// import Model from '../model/Model';
+import Model from '../model/Model';
 import "./contact.css";
 
 const Contact = () => {
@@ -53,7 +53,7 @@ const Contact = () => {
                 <div className="contact_info">
                     <h3 className="contact_title">Let's talk about everything!</h3>
                     <p className="contact_details">Don't like forms? Send me an email. 👋</p>
-                    {/* <Model /> */}
+                    <Model />
                 </div>
 
                 <form onSubmit={handleSubmit} className="contact_form">
