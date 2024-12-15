@@ -7,7 +7,7 @@
 }
 
 .intro {
-    /* max-width: 540px; */
+    max-width: 540px;
     text-align: center;
     z-index: 1;
 }
@@ -175,5 +175,11 @@
 @media screen and (max-width: 1024px) {
     .home_social-link {
         font-size: 1.125rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .scroll_down {
+        bottom: -2rem;
     }
 }
