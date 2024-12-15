@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/2025-portfolio/static/css/main.3c0f4de7.css",
+    "main.js": "/2025-portfolio/static/js/main.78b10f7a.js",
+    "static/js/208.ed7488c1.chunk.js": "/2025-portfolio/static/js/208.ed7488c1.chunk.js",
+    "static/js/293.1f5b0ed4.chunk.js": "/2025-portfolio/static/js/293.1f5b0ed4.chunk.js",
+    "static/js/917.98bcdc9a.chunk.js": "/2025-portfolio/static/js/917.98bcdc9a.chunk.js",
+    "static/js/516.5ebc9c16.chunk.js": "/2025-portfolio/static/js/516.5ebc9c16.chunk.js",
+    "static/js/519.a8ad6a92.chunk.js": "/2025-portfolio/static/js/519.a8ad6a92.chunk.js",
+    "static/js/946.0d06ecdc.chunk.js": "/2025-portfolio/static/js/946.0d06ecdc.chunk.js",
+    "static/js/160.538ff31f.chunk.js": "/2025-portfolio/static/js/160.538ff31f.chunk.js",
+    "static/js/23.d068ef00.chunk.js": "/2025-portfolio/static/js/23.d068ef00.chunk.js",
+    "static/js/488.40ff3eb8.chunk.js": "/2025-portfolio/static/js/488.40ff3eb8.chunk.js",
+    "static/media/bridges.svg": "/2025-portfolio/static/media/bridges.3edaebcc7a0c4058a7cfcb13a523524a.svg",
+    "static/media/weather.svg": "/2025-portfolio/static/media/weather.d82d2ce95ab6e52c0022f38680d4e7b3.svg",
+    "static/media/art-1.svg": "/2025-portfolio/static/media/art-1.f45675245006dfaa562092efe4ec94a1.svg",
+    "static/media/vr.svg": "/2025-portfolio/static/media/vr.45d594b35ec23521547941e9adcb158c.svg",
+    "static/media/found-up.svg": "/2025-portfolio/static/media/found-up.2bf1bbd4d433a89ddc265c2e91a7bb11.svg",
+    "static/media/art-2.svg": "/2025-portfolio/static/media/art-2.a534b1e1cea93a2b8281886e6c384c9e.svg",
+    "static/media/avatar-4.svg": "/2025-portfolio/static/media/avatar-4.694f2b153ca1a37c1f4813f8c1320cb5.svg",
+    "static/media/service-1.svg": "/2025-portfolio/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/service-3.svg": "/2025-portfolio/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/service-2.svg": "/2025-portfolio/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/dots-bg.svg": "/2025-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "static/media/Taylor_Logo.svg": "/2025-portfolio/static/media/Taylor_Logo.529c028d90430cf6811da81442e53faa.svg",
+    "index.html": "/2025-portfolio/index.html",
+    "main.3c0f4de7.css.map": "/2025-portfolio/static/css/main.3c0f4de7.css.map",
+    "main.78b10f7a.js.map": "/2025-portfolio/static/js/main.78b10f7a.js.map",
+    "208.ed7488c1.chunk.js.map": "/2025-portfolio/static/js/208.ed7488c1.chunk.js.map",
+    "293.1f5b0ed4.chunk.js.map": "/2025-portfolio/static/js/293.1f5b0ed4.chunk.js.map",
+    "917.98bcdc9a.chunk.js.map": "/2025-portfolio/static/js/917.98bcdc9a.chunk.js.map",
+    "516.5ebc9c16.chunk.js.map": "/2025-portfolio/static/js/516.5ebc9c16.chunk.js.map",
+    "519.a8ad6a92.chunk.js.map": "/2025-portfolio/static/js/519.a8ad6a92.chunk.js.map",
+    "946.0d06ecdc.chunk.js.map": "/2025-portfolio/static/js/946.0d06ecdc.chunk.js.map",
+    "160.538ff31f.chunk.js.map": "/2025-portfolio/static/js/160.538ff31f.chunk.js.map",
+    "23.d068ef00.chunk.js.map": "/2025-portfolio/static/js/23.d068ef00.chunk.js.map",
+    "488.40ff3eb8.chunk.js.map": "/2025-portfolio/static/js/488.40ff3eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0f4de7.css",
+    "static/js/main.78b10f7a.js"
+  ]
+}
