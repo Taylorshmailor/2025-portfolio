@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/2025-portfolio/static/css/main.f2decb68.css",
-    "main.js": "/2025-portfolio/static/js/main.f16555bc.js",
+    "main.css": "/2025-portfolio/static/css/main.c7d5ed93.css",
+    "main.js": "/2025-portfolio/static/js/main.a60f6cf9.js",
     "static/js/208.ed7488c1.chunk.js": "/2025-portfolio/static/js/208.ed7488c1.chunk.js",
     "static/js/293.1f5b0ed4.chunk.js": "/2025-portfolio/static/js/293.1f5b0ed4.chunk.js",
     "static/js/917.98bcdc9a.chunk.js": "/2025-portfolio/static/js/917.98bcdc9a.chunk.js",
@@ -15,7 +15,9 @@
     "static/media/weather.svg": "/2025-portfolio/static/media/weather.d82d2ce95ab6e52c0022f38680d4e7b3.svg",
     "static/media/art-1.svg": "/2025-portfolio/static/media/art-1.f45675245006dfaa562092efe4ec94a1.svg",
     "static/media/vr.svg": "/2025-portfolio/static/media/vr.45d594b35ec23521547941e9adcb158c.svg",
+    "static/media/piu-turtle.jpg": "/2025-portfolio/static/media/piu-turtle.01f6dab0ed2948ec9140.jpg",
     "static/media/found-up.svg": "/2025-portfolio/static/media/found-up.2bf1bbd4d433a89ddc265c2e91a7bb11.svg",
+    "static/media/piu-train.jpg": "/2025-portfolio/static/media/piu-train.12fabc4112cb4c8d9af4.jpg",
     "static/media/art-2.svg": "/2025-portfolio/static/media/art-2.a534b1e1cea93a2b8281886e6c384c9e.svg",
     "static/media/avatar-4.svg": "/2025-portfolio/static/media/avatar-4.694f2b153ca1a37c1f4813f8c1320cb5.svg",
     "static/media/service-1.svg": "/2025-portfolio/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
@@ -24,8 +26,8 @@
     "static/media/dots-bg.svg": "/2025-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "static/media/Taylor_Logo.svg": "/2025-portfolio/static/media/Taylor_Logo.529c028d90430cf6811da81442e53faa.svg",
     "index.html": "/2025-portfolio/index.html",
-    "main.f2decb68.css.map": "/2025-portfolio/static/css/main.f2decb68.css.map",
-    "main.f16555bc.js.map": "/2025-portfolio/static/js/main.f16555bc.js.map",
+    "main.c7d5ed93.css.map": "/2025-portfolio/static/css/main.c7d5ed93.css.map",
+    "main.a60f6cf9.js.map": "/2025-portfolio/static/js/main.a60f6cf9.js.map",
     "208.ed7488c1.chunk.js.map": "/2025-portfolio/static/js/208.ed7488c1.chunk.js.map",
     "293.1f5b0ed4.chunk.js.map": "/2025-portfolio/static/js/293.1f5b0ed4.chunk.js.map",
     "917.98bcdc9a.chunk.js.map": "/2025-portfolio/static/js/917.98bcdc9a.chunk.js.map",
@@ -37,7 +39,7 @@
     "488.40ff3eb8.chunk.js.map": "/2025-portfolio/static/js/488.40ff3eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2decb68.css",
-    "static/js/main.f16555bc.js"
+    "static/css/main.c7d5ed93.css",
+    "static/js/main.a60f6cf9.js"
   ]
 }
