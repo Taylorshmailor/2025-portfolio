@@ -29,7 +29,6 @@ const Menu = [
       image: Work1,
       title: "Weather Forecaster",
       category: "App",
-      link: "https://drive.google.com/file/d/13xAkpRvD9N6MJ1ChDf_OJoFelPuEYYgV/view?usp=sharing"
     },
     {
       id: 5,
